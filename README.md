@@ -1,5 +1,5 @@
 #                                                                    💫 About Me:
-🔭 I’m currently working on NetworkScanner<br>🌱 I’m currently learning Front end dev , Networking, Security<br>💬 Ask me about kareem-s-portfolio.vercel.app<br>
+🔭 I’m currently working on NetworkScanner<br>🌱 I’m currently learning advanced Math, Front end dev , Networking, Security<br>💬 Ask me about kareem-s-portfolio.vercel.app<br>
 
 
 #   💻 Tech Stack:
