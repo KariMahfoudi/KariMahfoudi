@@ -1,5 +1,5 @@
 #                                                                    💫 About Me:
-🔭 I’m currently working on 3D interactive Portfolio<br>🌱 I’m currently learning advanced Math, Front-End dev , Networking, Security Basics<br>💬 Ask me about kareem-s-portfolio.vercel.app<br>
+🔭 I’m currently working on 3D interactive Portfolio<br>🌱 I’m currently learning advanced Math, Front-End dev , Networking, Security Basics<br>💬 Ask me about : https://kareem-s-portfolio.vercel.app/<br>
 
 
 #   💻 Tech Stack:
