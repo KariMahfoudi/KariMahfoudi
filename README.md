@@ -87,7 +87,6 @@
 <table width="100%">
 <tr>
 <td width="20%" align="center"><strong>JavaScript</strong><br /><sub>52% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>31% of public code</sub></td>
 <td width="20%" align="center"><strong>CSS</strong><br /><sub>7% of public code</sub></td>
 <td width="20%" align="center"><strong>Python</strong><br /><sub>6% of public code</sub></td>
 <td width="20%" align="center"><strong>C</strong><br /><sub>2% of public code</sub></td>
