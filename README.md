@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · karimahfoudi</sub></p>
 <h1>Karim_Mahf</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Frontend-End Dev & Designer</h2>
 <p>No Risk No Story !</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Algiers,Algeria · Building at MicroClub</sub></p>
@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · Astro · CSS</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend· JavaScript · Three.js · CSS</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>5 repositories · 6 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>80 contributions · 34 active days</p></td>
 </tr>
@@ -87,7 +87,7 @@
 <table width="100%">
 <tr>
 <td width="20%" align="center"><strong>JavaScript</strong><br /><sub>52% of public code</sub></td>
-<td width="20%" align="center"><strong>Astro</strong><br /><sub>31% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>31% of public code</sub></td>
 <td width="20%" align="center"><strong>CSS</strong><br /><sub>7% of public code</sub></td>
 <td width="20%" align="center"><strong>Python</strong><br /><sub>6% of public code</sub></td>
 <td width="20%" align="center"><strong>C</strong><br /><sub>2% of public code</sub></td>
