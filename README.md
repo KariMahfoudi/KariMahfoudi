@@ -1,21 +1,115 @@
-#                                                                    💫 About Me:
-🔭 I’m currently working on 3D interactive Portfolio<br>🌱 I’m currently learning advanced Math, Front-End dev , Networking, Security Basics<br>💬 Ask me about : https://kareem-s-portfolio.vercel.app/<br>
+<div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · karimahfoudi</sub></p>
+<h1>Karim_Mahf</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>No Risk No Story !</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Algiers,Algeria · Building at MicroClub</sub></p>
+<p><a href="https://github.com/karimahfoudi">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/235538527?u=2d522867ca2f6664ba5727ee83fcc94dd70cd309&amp;v=4" width="180" alt="Karim_Mahf GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-#   💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) 
-#                                                                 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KariMahfoudi&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KariMahfoudi&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KariMahfoudi&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2>What teams can evaluate quickly</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KariMahfoudi&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · Astro · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>5 repositories · 6 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>80 contributions · 34 active days</p></td>
+</tr>
+</table>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KariMahfoudi&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+<p><sub>No Risk No Story !</sub></p>
 
----
-[![](https://komarev.com/ghpvc/?username=KariMahfoudi&icon=5&color=0)](https://visitcount.itsvg.in)
+<h2>Proof at a glance</h2>
 
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>80</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>4</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=karimahfoudi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235538527%3Fu%3D2d522867ca2f6664ba5727ee83fcc94dd70cd309%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=karimahfoudi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235538527%3Fu%3D2d522867ca2f6664ba5727ee83fcc94dd70cd309%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Karim_Mahf GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=karimahfoudi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235538527%3Fu%3D2d522867ca2f6664ba5727ee83fcc94dd70cd309%26v%3D4&repos=karimahfoudi%2FMintSnap%2Ckarimahfoudi%2F3D-portfolio-%2Ckarimahfoudi%2Fgenerative-ai-for-beginners%2Ckarimahfoudi%2Fogl&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=karimahfoudi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235538527%3Fu%3D2d522867ca2f6664ba5727ee83fcc94dd70cd309%26v%3D4&repos=karimahfoudi%2FMintSnap%2Ckarimahfoudi%2F3D-portfolio-%2Ckarimahfoudi%2Fgenerative-ai-for-beginners%2Ckarimahfoudi%2Fogl&v=recruiter-projects-1&mode=dark" width="100%" alt="Karim_Mahf selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/KariMahfoudi/MintSnap">MintSnap</a></h3>
+<p>A selected public project.</p>
+<p><sub>JavaScript · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/KariMahfoudi/MintSnap">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/KariMahfoudi/3D-portfolio-">3D-portfolio-</a></h3><p>I'm currently working on a 3D animated portfolio using WebGL , this project is for my personal use ,where i can learn new concepts in Front End Design</p><p><sub>CSS · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/KariMahfoudi/generative-ai-for-beginners">generative-ai-for-beginners</a></h3><p>21 Lessons, Get Started Building with Generative AI</p><p><sub>Jupyter Notebook · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/KariMahfoudi/ogl">ogl</a></h3><p>A selected public project.</p><p><sub>C++ · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=karimahfoudi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235538527%3Fu%3D2d522867ca2f6664ba5727ee83fcc94dd70cd309%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=karimahfoudi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235538527%3Fu%3D2d522867ca2f6664ba5727ee83fcc94dd70cd309%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Karim_Mahf technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>52% of public code</sub></td>
+<td width="20%" align="center"><strong>Astro</strong><br /><sub>31% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>7% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>C</strong><br /><sub>2% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=karimahfoudi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235538527%3Fu%3D2d522867ca2f6664ba5727ee83fcc94dd70cd309%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=karimahfoudi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235538527%3Fu%3D2d522867ca2f6664ba5727ee83fcc94dd70cd309%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Karim_Mahf contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/karimahfoudi">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Karim_Mahf · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
