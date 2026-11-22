@@ -7,7 +7,7 @@
 <h1>Karim_Mahf</h1>
 <h2>Frontend-End Dev & Designer</h2>
 <p>No Risk No Story !</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<p><strong></strong></p>
 <p><sub>Based in Algiers,Algeria · Building at MicroClub</sub></p>
 <p><a href="https://github.com/karimahfoudi">GitHub</a></p>
 </td>
