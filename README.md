@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · karimahfoudi</sub></p>
 <h1>Karim_Mahf</h1>
-<h2>Frontend-End Dev & Designer</h2>
+<h2>Frontend-End Dev & Graphic Designer</h2>
 <p>No Risk No Story !</p>
 <p><strong></strong></p>
 <p><sub>Based in Algiers,Algeria · Building at MicroClub</sub></p>
